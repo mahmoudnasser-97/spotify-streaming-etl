@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data & Logs
+data/*.json
+data/*.csv
+logs/*.log
+
+# IDEs
+.vscode/
+.idea/
